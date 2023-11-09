@@ -1,0 +1,11 @@
+存证方法
+Method：save
+Param：userId,name,hash,content,time
+
+查询方法
+Method：findByHash
+Param：hash
+
+获取发起用户id
+Method：address
+Param：空
